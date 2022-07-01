@@ -13,5 +13,14 @@
       "type": "color"
     }
   },
-  "$themes": []
+  "$themes": [
+    {
+      "id": "26f0294a33cfa44ae08989a8c2ac4f1927fbffdc",
+      "name": "main",
+      "selectedTokenSets": {
+        "Default": "enabled"
+      },
+      "$figmaStyleReferences": {}
+    }
+  ]
 }
