@@ -1,0 +1,17 @@
+{
+  "Default": {
+    "blue": {
+      "value": "#6dc6e2",
+      "type": "color"
+    },
+    "green": {
+      "value": "#6de28e",
+      "type": "color"
+    },
+    "red": {
+      "value": "#e36d6d",
+      "type": "color"
+    }
+  },
+  "$themes": []
+}
