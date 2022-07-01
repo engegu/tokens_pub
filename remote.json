@@ -13,7 +13,7 @@
       "type": "color"
     },
     "pink": {
-      "value": "#ffa9f7",
+      "value": "#701767",
       "type": "color"
     }
   },
@@ -25,9 +25,10 @@
         "Default": "enabled"
       },
       "$figmaStyleReferences": {
-        "blue": "S:c791f946018cfee8888cea7fe23b6004aabfdbb9,",
-        "green": "S:5aca3f1b957b5a296e4c6338ace9a00277533155,",
-        "red": "S:030760c586e94b212ab237ac3d6c884582041e46,"
+        "main/blue": "S:cf6a176c7cd33d3a1c3b7f28979bb8c168fc0834,",
+        "main/green": "S:fec0a829455b6a4aa9759b5f370fd8091ef45749,",
+        "main/red": "S:ca9719e7c5af3ce49344dd9ba7b6957610914f70,",
+        "main/pink": "S:b776be2e765decbd085694ad884524191f470861,"
       }
     }
   ]
