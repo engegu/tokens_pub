@@ -11,6 +11,10 @@
     "red": {
       "value": "#e36d6d",
       "type": "color"
+    },
+    "pink": {
+      "value": "#ffa9f7",
+      "type": "color"
     }
   },
   "$themes": [
@@ -20,7 +24,11 @@
       "selectedTokenSets": {
         "Default": "enabled"
       },
-      "$figmaStyleReferences": {}
+      "$figmaStyleReferences": {
+        "blue": "S:c791f946018cfee8888cea7fe23b6004aabfdbb9,",
+        "green": "S:5aca3f1b957b5a296e4c6338ace9a00277533155,",
+        "red": "S:030760c586e94b212ab237ac3d6c884582041e46,"
+      }
     }
   ]
 }
